@@ -1,0 +1,4 @@
+D:\ECommerceSystem\ECommerceModels\obj\Debug\net9.0\ECommerceModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\ECommerceSystem\ECommerceModels\obj\Debug\net9.0\ECommerceModels.AssemblyInfoInputs.cache
+D:\ECommerceSystem\ECommerceModels\obj\Debug\net9.0\ECommerceModels.AssemblyInfo.cs
+D:\ECommerceSystem\ECommerceModels\obj\Debug\net9.0\ECommerceModels.csproj.CoreCompileInputs.cache
